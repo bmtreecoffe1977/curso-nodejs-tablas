@@ -1,0 +1,16 @@
+{
+  "name": "02-basesnode",
+  "version": "0.0.1",
+  "description": "Bases iniciales de Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base": "node app.js --base=5"
+  },
+  "author": "Jaime Fco Borre P",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
